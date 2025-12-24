@@ -1,0 +1,2 @@
+*.at5p filter=lfs diff=lfs merge=lfs -text
+*.at4p filter=lfs diff=lfs merge=lfs -text
